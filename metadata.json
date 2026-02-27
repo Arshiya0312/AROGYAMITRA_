@@ -1,0 +1,7 @@
+{
+  "name": "Remix: Remix: ArogyaMitra",
+  "description": "A production-ready, AI-powered fitness and wellness platform with personalized plans, real-time coaching, and advanced analytics.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
